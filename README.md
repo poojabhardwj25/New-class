@@ -1,2 +1,2 @@
 # New-class
-Learning git &amp; github
+Learning git &amp; github and enjoy it
